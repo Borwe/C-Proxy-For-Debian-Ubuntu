@@ -1,0 +1,4 @@
+#!/bin/sh
+sudo touch /etc/apt/apt.conf.d/apt.conf
+sudo chmod 777 /etc/apt/apt.conf.d/apt.conf
+sudo chmod 777 /etc/environment
