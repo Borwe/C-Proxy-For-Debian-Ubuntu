@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493543851 source:/home/brian/workspace/C++/Proxy/main.cpp
+	<iostream>
+	"proxier.h"
+
+1493544650 /home/brian/workspace/C++/Proxy/proxier.h
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+
